@@ -26,5 +26,4 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: check
-        run: |
-          '(test -f tsconfig.json && echo tsconfig exists) || echo tsconfig does not exist, please check the push && exit 1'
+        run: '(test -f tsconfig.json && echo tsconfig exists) || echo tsconfig does not exist, please check the push && exit'
