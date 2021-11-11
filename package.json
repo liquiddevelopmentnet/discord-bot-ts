@@ -1,0 +1,24 @@
+{
+  "name": "discord-bot-ts",
+  "version": "1.0.0",
+  "description": "[![liquiddevelopmentnet - discord-bot-ts](https://img.shields.io/static/v1?label=liquiddevelopmentnet&message=discord-bot-ts&color=blue&logo=github)](https://github.com/liquiddevelopmentnet/discord-bot-ts \"Go to GitHub repo\")\r [![CI](https://github.com/liquiddevelopmentnet/discord-bot-ts/workflows/CI/badge.svg)](https://github.com/liquiddevelopmentnet/discord-bot-ts/actions?query=workflow:\"CI\")\r [![GitHub tag](https://img.shields.io/github/tag/liquiddevelopmentnet/discord-bot-ts?include_prereleases=&sort=semver&color=blue)](https://github.com/liquiddevelopmentnet/discord-bot-ts/releases/)\r [![issues - discord-bot-ts](https://img.shields.io/github/issues/liquiddevelopmentnet/discord-bot-ts)](https://github.com/liquiddevelopmentnet/discord-bot-ts/issues)",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "ts-node .",
+    "compile": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liquiddevelopmentnet/discord-bot-ts.git"
+  },
+  "keywords": [],
+  "author": "liquiddevelopmentnet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liquiddevelopmentnet/discord-bot-ts/issues"
+  },
+  "homepage": "https://github.com/liquiddevelopmentnet/discord-bot-ts#readme",
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  }
+}
