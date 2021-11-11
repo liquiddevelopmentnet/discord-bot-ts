@@ -31,7 +31,7 @@ _You can get a bot token under [this link](https://discord.com/developers/applic
 
 ### Intents Setup
 
-Go into `src/index.ts:6` and addd your Intents to the array, list of all intents can be found [here](https://discord.com/developers/docs/topics/gateway#list-of-intents).
+Go into `src/index.ts:6` and add your Intents to the array, list of all intents can be found [here](https://discord.com/developers/docs/topics/gateway#list-of-intents).
 
 ## License
 
